@@ -58,6 +58,27 @@ unsigned char* ReadBMP(char* filename)
       }
     }
 
+    // for(int y=0;y<height;y++)
+    // {
+    //   // cout<<"y: "<<y<<endl;
+    //     for(int x=0; x<width; x += 3)
+    //     {
+    //         // cout<<"x: "<<x<<endl;
+    //         // get pixel
+    //         Vec3b color = image.at<Vec3b>(Point(x,y));
+    //
+    //         color[0]=(int)data[3*(y*width+x)];
+    //         // color[0]=240;
+    //         // color[1]=(;
+    //         color[1]=(int)data[3 * (y * width + x) + 1];
+    //         // color[2]=(int)data[x+2];
+    //         color[2]=(int)data[3 * (y * width + x) + 2];
+    //
+    //         // set pixel
+    //         image.at<Vec3b>(Point(x,y)) = color;
+    //     }
+    // }
+
     namedWindow( "Display window", WINDOW_AUTOSIZE );// Create a window for display.
     imshow( "Display window", image );                   // Show our image inside it.
     cv::waitKey(0);
@@ -66,7 +87,9 @@ unsigned char* ReadBMP(char* filename)
 }
 
 int main(){
+  cout<<"Hola"<<endl;
   // unsigned char* data = readBMP("Perro.bmp");
   unsigned char* data = ReadBMP("imagen.bmp");
   // cout<<(int)(&data)<<endl;
+  cout<<"mundo"<<endl;
 }
