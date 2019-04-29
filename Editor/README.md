@@ -10,23 +10,23 @@
 
 ## Suma
 
-![alt text](https://github.com/Kath17/TopicosComputacionGrafica/tree/master/Editor/Demostracion/suma.png)
+![alt text](https://github.com/Kath17/TopicosComputacionGrafica/blob/master/Editor/Demostracion/suma.png)
 
 ## Resta
 
-![alt text](https://github.com/Kath17/TopicosComputacionGrafica/tree/master/Editor/Demostracion/Resta.png)
+![alt text](https://github.com/Kath17/TopicosComputacionGrafica/blob/master/Editor/Demostracion/Resta.png)
 
 ## Multiplicacion
 
-![alt text](https://github.com/Kath17/TopicosComputacionGrafica/tree/master/Editor/Demostracion/Multiplicacion.png)
+![alt text](https://github.com/Kath17/TopicosComputacionGrafica/blob/master/Editor/Demostracion/Multiplicacion.png)
 
 ## Division
 
-![alt text](https://github.com/Kath17/TopicosComputacionGrafica/tree/master/Editor/Demostracion/Division.png)
+![alt text](https://github.com/Kath17/TopicosComputacionGrafica/blob/master/Editor/Demostracion/Division.png)
 
 ## A grises
 
-![alt text](https://github.com/Kath17/TopicosComputacionGrafica/tree/master/Editor/Demostracion/Gris.png)
+![alt text](https://github.com/Kath17/TopicosComputacionGrafica/blob/master/Editor/Demostracion/Gris.png)
 
 
 
